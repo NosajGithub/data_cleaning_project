@@ -24,4 +24,7 @@ It represents data collected from the accelerometers from the Samsung Galaxy S s
 4. The columns of the resulting table are named with Features.txt names, and the activity variable is cast as a factor with labels from Activity_labels.  
 5. Only those variables whose names end in "mean" or "std" are selected from the resulting dataset. **Variables such as "FreqMean" were not included as they were not considered pure measurements on the mean.**  
 6. The dataset is melted and recast to compute the means of all of the accelerometer variables for each unique subject-activity pair.  
-7. The final tidy table is output to a .txt file. **This is considered the tidy dataset that must be uploaded for the project description.**  
+7. The final tidy table is output to a .txt file. **This is considered the tidy dataset that must be uploaded for the project description.**
+
+**Citation**  
+[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
