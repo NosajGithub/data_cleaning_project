@@ -4,7 +4,7 @@ CodeBook.md
 This document describes the data and analysis for run_analysis.R.
 
 **Variables**  
-A full description of the data, including variables, is available [here.](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) Few new variables were created in this analysis. The final outputs are saved in tidyData and tidyData2. Descriptions can be found in-line with the code.  
+A full description of the data, including variables, is available in the README.txt and features_info.txt files available with the data [here.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) Few new variables were created in this analysis. The final outputs are saved in tidyData and tidyData2. Descriptions can be found in-line with the code.  
 
 **Data**  
 The data comes from [this site.](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
